@@ -1,0 +1,7 @@
+Deploy steps:
+	1. Download the git project in a folder
+	2. Open your preferred java IDE
+	3. Create a new proyect in the folder where the git project was downloaded
+	4. Execute the class AplMain.java to execute al the application.
+
+Button "Monthly sales doesn't work"
